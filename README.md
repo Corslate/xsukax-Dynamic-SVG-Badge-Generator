@@ -1,6 +1,6 @@
 # xsukax Dynamic SVG Badge Generator
 
-[![xsukax.com](https://xsukax.net/badge.php?badge=xsukax-Dynamic%20SVG%20Badge%20Generator-grey-red-FFF.svg)](https://xsukax.com)
+[![xsukax.com](https://badge.xsukax.net/?badge=xsukax-Dynamic%20SVG%20Badge%20Generator-grey-red-FFF.svg)](https://xsukax.com)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![PHP Version](https://img.shields.io/badge/PHP-7.4%2B-777BB4.svg)](https://php.net)
 [![Version](https://img.shields.io/badge/Version-2.4-green.svg)](https://github.com/xsukax/xsukax-Dynamic-SVG-Badge-Generator)
